@@ -1,0 +1,21 @@
+body {
+  /*lettertype*/
+  font-family: 'Times New Roman';
+  /*achtergrondkleur*/
+  background-color: rgb(194, 151, 87);
+}
+h1 {
+  /* onze heading een beetje groter maken */
+  font-size: 4rem;
+}
+img {
+  /* een achtergrondkleur instellen voor het transparante logo */
+  background-color: rgb(230, 220, 176);
+  /* de afbeelding responsive maken */
+  max-width: 100%;
+}
+
+.inspringing {
+  /* sommige paragrafen geven we een linkse inspringing */
+  margin-left: 40px;
+}
